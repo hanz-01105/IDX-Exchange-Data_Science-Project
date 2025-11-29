@@ -53,20 +53,14 @@ The models achieved:
 
 ---
 
-## 📂 **Repository Structure**
+
+### 📂 **Repository Structure**
 
 ```plaintext
-├── data/                 # Cleaned & processed datasets
-├── notebooks/            # EDA, modeling, and experiments
-├── src/                  # Production-level scripts
-│   ├── data_pipeline/
-│   ├── modeling/
-│   ├── utils/
-├── reports/              # Visualizations & summary docs
-├── README.md
-└── requirements.txt
+├── IDX_Forecasting_Notebook.ipynb   # Main Google Colab notebook (EDA, cleaning, modeling)
+├── Presentation_Slides.pdf          # Final presentation for IDX Exchange
+└── README.md
 ```
-
 ---
 
 ## 📈 **Results & Impact**
