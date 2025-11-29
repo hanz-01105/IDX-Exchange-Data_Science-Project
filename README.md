@@ -1,7 +1,3 @@
-Here is a clean, polished, **ready-to-copy README.md** for your **IDX Exchange** project.
-It includes badges, project description, features, model metrics, and structure — all phrased professionally for recruiters and GitHub viewers.
-
----
 
 # 🏡 **IDX Exchange – Real Estate Forecasting & Valuation Models**
 
