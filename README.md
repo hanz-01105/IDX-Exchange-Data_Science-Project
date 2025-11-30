@@ -57,7 +57,7 @@ The models achieved:
 ### 📂 **Repository Structure**
 
 ```plaintext
-├── IDX_Forecasting_Notebook.ipynb   # Main Google Colab notebook (EDA, cleaning, modeling)
+├── IDX_Forecasting.py   # Main python model file
 ├── Presentation_Slides.pdf          # Final presentation for IDX Exchange
 └── README.md
 ```
